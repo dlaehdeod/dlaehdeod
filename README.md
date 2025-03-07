@@ -3,6 +3,8 @@
 <!--
 **dlaehdeod/dlaehdeod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![image](https://github.com/user-attachments/assets/e64dc5a9-0b88-4c14-809d-9585f3117ee4)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
