@@ -1,7 +1,5 @@
 ## Hi there 👋
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-![image](https://github.com/user-attachments/assets/8e605572-0b68-4002-8cba-701b6a69be78)
-
 
 <!--
 
